@@ -5,6 +5,7 @@
     background-repeat: repeat; 
     background-blend-mode: normal;
     background-size: 400px;
+    margin-left: 0;
 }
 .logo-thebooleaner{
     background-image: url(../img/logo.svg);
@@ -15,8 +16,8 @@
     padding-top: 2%;
 }
 .struttura-pagina{
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 5%;
+    margin-right: 0%;
     
 }
 .titolo-principale{
@@ -38,9 +39,28 @@ text-decoration-color: red;
   font-size: 13px;
   color: #727171; 
 }
+ul{
+    text-align: left;
+    padding: 0%;
+    margin-left: 20px;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    background-color: #25a6df;
+    width: 16000px;
+    height: 20%;
+    color: white;
+    border-collapse: collapse;
+    text-align: left;
+    
+}
     
     
-   
-    
+.riga1{
+    background-color: #b2e6f3;
+    color:black
+}
 
     
