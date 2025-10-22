@@ -1,0 +1,23 @@
+header{
+    background-color: #4ea1ff;
+    height: 100px;
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat; 
+    background-blend-mode: normal;
+    background-size: 400px;
+}
+
+.logo-the-booleaner{
+    background-image: url(../img/logo.svg);
+    background-position-y: center;
+    
+    width: 200px;
+    height:100px;
+    background-repeat: no-repeat;
+    margin-left: 10%;
+    
+}
+    
+
+    
+    
