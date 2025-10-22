@@ -15,11 +15,7 @@
     background-position-y: center;
     padding-top: 2%;
 }
-.struttura-pagina{
-    margin-left: 5%;
-    margin-right: 0%;
-    
-}
+
 .titolo-principale{
 text-decoration-color: red;
     text-align: left;
@@ -62,5 +58,6 @@ th{
     background-color: #b2e6f3;
     color:black
 }
-
-    
+h2{
+    text-align: left;
+}
