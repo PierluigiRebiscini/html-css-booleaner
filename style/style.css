@@ -1,20 +1,15 @@
-.pattern-principale-header{
+.logo-pattern{
     background-color: #4ea1ff;
     height: 100px;
-    background-image: url(../img/pattern.png);
-    background-repeat: repeat; 
+    background-image: url(../img/logo.svg),url(../img/pattern.png);
+    background-repeat:  no-repeat,repeat;
     background-blend-mode: normal;
-    background-size: 400px;
-    margin-left: 0;
+    background-size: 250px,350px;
+    background-position: 0% 100%, 0% 0%;
 }
-.logo-thebooleaner{
-    background-image: url(../img/logo.svg);
-    width: 250px;
-    background-repeat: no-repeat;
-    margin-left: 6%;
-    background-position-y: center;
-    padding-top: 2%;
-}
+    
+    
+
 
 .titolo-principale{
     text-align: left;
