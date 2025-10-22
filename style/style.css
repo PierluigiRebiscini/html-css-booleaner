@@ -17,7 +17,6 @@
 }
 
 .titolo-principale{
-text-decoration-color: red;
     text-align: left;
     margin-block: 10px 0px;
     
@@ -58,6 +57,33 @@ th{
     background-color: #b2e6f3;
     color:black
 }
-h2{
-    text-align: left;
+.info-varie{
+    color: #727171;
+    font-weight: bold;
+    font-size: 25px;
+    margin-block: 50px 10px;
+    }
+   
+    .immagine-monitor{
+        background-image: url(../img/monitor.jpg);
+        height: 300px;
+        height: 200px;
+        background-size: contain;
+        background-repeat: no-repeat;
+
+    }
+        .immagine-grafico{
+        background-image: url(../img/graph.jpg);
+        height: 300px;
+        height: 200px;
+        background-size: contain;
+        background-repeat: no-repeat;
+
+    }
+
+.lorem{
+    font-size: 20px;
+    font-weight: bold;
+    margin-block: 10px 10px;
+    color: white;
 }
